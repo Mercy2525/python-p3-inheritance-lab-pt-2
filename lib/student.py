@@ -21,3 +21,7 @@ class ChattyStudent(Student):
         super().raise_hand()
         super().raise_hand()
         super().raise_hand()
+
+
+mercy=ChattyStudent()
+mercy.raise_hand()
